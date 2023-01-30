@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap'); 
+body{
+    background: #23252C;;
+    margin:0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+
+  }
+
+
+.App{
+
+
+
+
+    
+    width: auto;
+
+    margin-top: 50px;
+    margin-bottom:50px ;
+    background: #1A1B21;
+    border-radius: 20px;
+    overflow: hidden;
+    ;
+    
+}
+.App{
+    display: inline-block; 
+
+}
+
+.phynks{
+    float: unset;
+
+
+    width: 450px;
+
+}
+.info {
+    font-family: inter;
+    font-style: normal;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.info > h1{
+    margin-top: 30px;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+.info > h4{
+    font-weight: 100;
+    margin-top: 0px;
+    color: darksalmon;
+    margin-bottom: 0px;
+}
+.info > h6{
+    margin-top: 0px;
+
+}
+a{
+    color: rgb(174, 174, 174);
+    
+}
+a:link { text-decoration: none; }
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none;
+    color: rgb(255, 255, 255); 
+}
+
+
+a:active { text-decoration: none; }
+.bt1{
+    margin-right: 30px;
+}
+
+.about{
+    
+    color: #FFFFFF;
+    font-family: inter;
+    width: 350px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about > p{
+    font-size: 13px;
+    line-height: 15pt;
+}
+.interests{
+    color: white;
+    font-family: inter;
+    width: 350px;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+.interests > p {
+    font-size: 13px  ;
+    line-height: 15pt;
+}
+.footdiv{
+    background: #161619;
+    margin-top: 50px;
+    
+
+}
+.footer{
+
+    text-align: center;
+    padding: 15px;
+
+}
+.footer >a{
+    margin: 15px;
+
+    
+}
+
